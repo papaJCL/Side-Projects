@@ -1,1 +1,7 @@
 #Converter. Download the .jar file to run(make sure java is updated)
+Need to have JRFrame installed. 
+
+
+
+Calculator BUG: When clicking either (binary, decimal, octal, hexadecimal), and clicking (binary, decimal, octal, hexadecimal) 
+it selects both and doesn't run the calculator. 
